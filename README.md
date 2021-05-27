@@ -1,5 +1,5 @@
-# tron-rosetta-api
-A rosetta api for java-tron.
+# lite-rosetta-api
+A rosetta api for java-lite.
 
 ##  Overview
 In this article, we will illustrate how to build and use a Tron node supporting Rosetta blockchain specifications. We hope this set of specifications will make our TRON API architecture more standard and flexible
