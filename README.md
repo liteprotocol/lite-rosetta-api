@@ -9,7 +9,7 @@ Please make sure you have installed the latest version of docker before deployme
 Execute the following command to download tron-rosetta-api:
 
 ```
-$ git clone https://github.com/tronprotocol/tron-rosetta-api.git
+$ git clone https://github.com/liteprotocol/lite-rosetta-api.git
 ```
 
 Compile docker image and use MainNet configuration for the image by default:
